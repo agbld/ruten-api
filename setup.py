@@ -12,6 +12,6 @@ setup(
     ],
     description='Helper functions for interacting with the Ruten API',
     author='agbld',
-    author_email='agiblida#gmail.com',
+    author_email='agiblida@gmail.com',
     url='https://github.com/agbld/ruten-api',
 )
